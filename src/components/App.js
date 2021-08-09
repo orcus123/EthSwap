@@ -122,10 +122,6 @@ class App extends Component {
                 >
                 </a>
                 {content}
-
-
-
-
               </div>
             </main>
           </div>
